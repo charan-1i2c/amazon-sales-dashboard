@@ -83,9 +83,9 @@ This dashboard provides a comprehensive overview of Amazon sales data through in
 
 **Sishta Siva Charan Sri Lakshmi Narayana**
 
-GitHub: https://github.com/YourUsername
+GitHub: https://github.com/charan-1i2c
 
-LinkedIn: https://linkedin.com/in/YourProfile
+
 
 ---
 
