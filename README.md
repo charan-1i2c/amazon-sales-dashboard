@@ -38,11 +38,11 @@ This dashboard provides a comprehensive overview of Amazon sales data through in
 
 ### Main Dashboard
 <img width="1171" height="656" alt="dashboard without filters" src="https://github.com/user-attachments/assets/a984c3ba-ab17-4954-8d11-bcc4ca26e7b2" />
-###📷 Screenshots
-with category filter:
+📷 Screenshots:
+- with category filter:
 <img width="1167" height="656" alt="dashboard with category filter" src="https://github.com/user-attachments/assets/19d56330-6f47-46d6-9f47-55b013199548" />
 
-with market filter:
+- with market filter:
 <img width="1167" height="653" alt="dashboard with market filters" src="https://github.com/user-attachments/assets/1cc973d7-67a1-4281-b1d9-d6f283fa0d9b" />
 
 
