@@ -37,13 +37,7 @@ This dashboard provides a comprehensive overview of Amazon sales data through in
 ## 📊 Dashboard Preview
 
 ### Main Dashboard
-
-> Add a screenshot here.
-
-Example:
-
-```
-images/dashboard.png
+images/dashboard without filters.png
 ```
 
 ---
@@ -84,11 +78,10 @@ Amazon-Sales-Dashboard/
 ---
 
 ## 📷 Screenshots
-
-| Dashboard | Filtered Dashboard |
-|-----------|--------------------|
-| Add Screenshot | Add Screenshot |
-
+with category filter:
+images/dashboard with category filter.png
+with market filter:
+images/dashboard with market filters.png
 ---
 
 ## 👨‍💻 Author
